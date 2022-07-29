@@ -20,7 +20,11 @@ VPOS is a software framework for camera-side virtual production development. It 
 
 
 ## Usage/Examples
-Vposlaunch.js is the launch file, and modules are launched from here. Modules should be forked to be enabled, i.e.
+Vposlaunch.js is the launch file, and modules are launched from here. VPOS is launched with:
+
+**npm run start**
+
+Modules should be forked to be enabled, i.e.
 ```javascript
 ///Data logger 
 fork(path.join(__dirname, 'dataLogger.js'));
