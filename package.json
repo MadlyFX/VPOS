@@ -49,6 +49,7 @@
     "node-ipc": "^11.1.0",
     "node-osc": "^8.0.3",
     "node-tcp-proxy": "^0.0.27",
+    "node-wifi": "^2.0.16",
     "osc-js": "^2.3.2",
     "serialport": "^10.4.0",
     "socket.io": "^4.5.1",
